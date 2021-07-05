@@ -1,0 +1,2 @@
+rootProject.name = "ElKantarı"
+include ':app'
